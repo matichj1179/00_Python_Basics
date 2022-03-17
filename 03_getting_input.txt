@@ -1,2 +1,0 @@
-#Ask the user for there name
-user
